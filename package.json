@@ -1,0 +1,17 @@
+{
+  "name": "ignite_fin_api",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/pablolucio97/ignite-nodejs-fin-api.git",
+  "author": "Pablo <pablolucio_@hotmail.com>",
+  "license": "MIT",
+  "scripts" : {
+    "start" : "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
